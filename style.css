@@ -507,7 +507,7 @@ span{
             margin-bottom: 3rem;
         }
         .skills-container{
-            grid-template-columns: repeat(1,1fr);
+            grid-template-columns: repeat(1,1.5fr);
             margin-left: 0px;
         }
 }
