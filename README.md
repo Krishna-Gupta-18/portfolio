@@ -1,2 +1,2 @@
-# portfolio
-static portfolio
+portfolio
+my first static portfolio
